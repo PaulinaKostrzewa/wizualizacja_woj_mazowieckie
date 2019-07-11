@@ -1,0 +1,17 @@
+Dane nie zawieraj¹ zmian:
+
+- dotycz¹cych granic gmin:
+  Nowy Korczyn (brak wydzielonego miasta w gminie miejsko-wiejskiej)
+  Oleœnica (brak wydzielonego miasta w gminie miejsko-wiejskiej)
+
+wynikaj¹cych z rozporz¹dzenia Rady Ministrów z dnia 25 lipca 2018 r. w sprawie ustalenia granic niektórych gmin i miast oraz nadania niektórym miejscowoœciom statusu miasta. 
+
+- polegaj¹cych na dostosowaniu danych EGiB z powiatów: s³upskiego, wejherowskiego, m. Gdañska, m. Gdyni, m. Sopotu, gryfickiego, kamieñskiego, ko³obrzeskiego,
+koszaliñskiego i s³awieñskiego do przebiegu linii podstawowej, okreœlonej Rozporz¹dzeniem Rady Ministrów z dnia 13 stycznia 2017 r. w sprawie szczegó³owego przebiegu linii podstawowej,
+zewnêtrznej granicy morza terytorialnego oraz zewnêtrznej granicy strefy przyleg³ej Rzeczypospolitej Polskiej.
+
+Ww. braki wynikaj¹ z faktu, i¿ zmiany nie zosta³y ujête w danych EGiB przekazanych do PRG. Trwa obecnie wyjaœnienie tych kwestii z dysponentami danych.
+
+
+
+
