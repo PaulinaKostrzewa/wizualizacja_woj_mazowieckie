@@ -14,6 +14,6 @@ kod inspirowany na podstawie artykułu: https://towardsdatascience.com/a-complet
     * te samą co powyżej + dodana wizualizacja wykres liniowy na przestrzeni lat jak zmieniają się wybrane wielkości dla KONKRETNEGO powiatu
 
 
-aby uruchomić programy wywołać komendę np.
+aby uruchomić programy należy wywołać komendę np.
 ` bokeh serve --show wizualizacja_woj_mazowieckie.ipynb` 
 w lokalizacji do której sklonowaliśmy repozytorium
